@@ -1,8 +1,8 @@
 # npm-basics
 
-_This goal of this proyect is to get use to npm._
-_We will install some dependencies for production, others for development and try with diferent versions_
-_We will also learn to do our fisrt tests installing the jest package_
+_The goal of this proyect is to get use to npm._
+> _We will install some dependencies for production, others for development and try with diferent versions_
+> _We will also learn to do our fisrt tests installing the jest package_
 
 ## Starting 🚀
 
